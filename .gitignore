@@ -1,0 +1,8 @@
+.vscode
+.devcontainer
+.mvn
+
+output/
+target/
+
+SDKLogs.log
